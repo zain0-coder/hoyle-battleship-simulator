@@ -1,0 +1,9 @@
+# Compiled executable
+battleship
+main
+
+# macOS system file
+.DS_Store
+
+# Local libraries
+lib/
